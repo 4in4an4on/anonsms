@@ -31,6 +31,7 @@ curl -X POST  https://textbelt.com/text \
      --data-urlencode  phone=$phone \
      --data-urlencode  message=$message  \
      -d key=textbelt
+echo ""     
 echo "+-----------------------------------------+"     
 echo "| Done.                                   |"
 echo "+-----------------------------------------+"
